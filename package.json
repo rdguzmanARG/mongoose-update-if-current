@@ -52,7 +52,7 @@
     "eslint": "^6.1.0",
     "eslint-config-google": "^0.14.0",
     "jest": "^25.2.6",
-    "mongoose": "^5.9.7",
+    "mongoose": "^5.9.12",
     "uuid": "^8.0.0"
   },
   "dependencies": {
